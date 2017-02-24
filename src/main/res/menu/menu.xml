@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/buttonNew_game"
+        android:title="@string/new_game"
+        app:showAsAction="ifRoom"
+    />
+    <item android:id="@+id/buttonStatistics"
+        android:title="@string/stats"
+        app:showAsAction="ifRoom"
+    />
+</menu>

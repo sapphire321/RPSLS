@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="buttonRound">50dp</dimen>
+    <dimen name="scoreSize">50sp</dimen>
+    <dimen name="marginPlayer">8dp</dimen>
+    <dimen name="txtPlayer">20sp</dimen>
+    <dimen name="marginScore">8dp</dimen>
+</resources>

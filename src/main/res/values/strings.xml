@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">RPSLS</string>
+    <string name="app_name2">Statistics</string>
+    <string name="stats">Statistics</string>
+    <string name="new_game">Start over</string>
+    <string name="figure">figure</string>
+    <string name="whatHappenedLizardSpock">Lizard Poisons Spock</string>
+    <string name="whatHappenedLizardScissors">Scissors decapitate Lizard</string>
+    <string name="whatHappenedLizardPaper">Lizard eats Paper</string>
+    <string name="whatHappenedLizardRock">Rock crushes Lizard</string>
+    <string name="whatHappenedDoubleKill">DOUBLE KILL!!</string>
+    <string name="draw">DRAW..</string>
+    <string name="whatHappenedSpockScissors">Spock smashes Scissors</string>
+    <string name="whatHappenedSpockPaper">Paper disproves Spock</string>
+    <string name="whatHappenedSpockRock">Spock vaporizes Rock</string>
+    <string name="whatHappenedScissorsPaper">Scissors cut Paper</string>
+    <string name="whatHappenedScissorsRock">Rock crushes Scissors</string>
+    <string name="whatHappenedPaperRock">Paper coveres Rock</string>
+    <string name="playerWin">YOU WIN!!</string>
+    <string name="playerLose">YOU LOSE!!</string>
+    <string name="pcWonRound">PC is taking this round!!</string>
+    <string name="playerWonRound">You won this round!!</string>
+    <string name="font">sans-serif-smallcaps</string>
+</resources>
